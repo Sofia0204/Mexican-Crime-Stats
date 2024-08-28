@@ -21,9 +21,4 @@ This repository contains code and documentation for analyzing criminal incident 
   - `figures/`: Saved plots and figures.
   - `technical_summary.md`: Detailed technical summary of findings and methodology.
 
-- **`tests/`**: Unit tests for validating code.
-  - `test_data_preprocessing.py`: Tests for data preprocessing functions.
-  - `test_analysis.py`: Tests for analysis functions.
 
-- **`.gitignore`**: Git ignore file to exclude unnecessary files.
-- **`requirements.txt`**: List of project dependencies.
